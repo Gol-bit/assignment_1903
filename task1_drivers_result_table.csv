@@ -1,0 +1,6 @@
+year,drivers_left_count,prev_year_drivers_left_count,driver_change_status
+2015,5,NULL,no change
+2016,5,5,no change
+2017,8,5,increase
+2018,25,8,increase
+2019,7,25,decrease
