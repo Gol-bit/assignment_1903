@@ -10,7 +10,10 @@ task2_wines_result_table
 task3_month_result_table
 And here: https://docs.google.com/spreadsheets/d/1b1sgzowuyEv77i0fO-9lXjpuGSvWrxR6hmfU861Jhhs/edit#gid=807265881
 
-Also, I drew PNG graphs to represent some results more visually.
+Also, I drew PNG graphs to represent some results more visually:
+- task1_graph.jpg
+- task2_graph.jpg
+- task3_graph.jpg
 
 Python code in which I drew the graphs is in the file graphs.ipynb.
 
@@ -29,6 +32,9 @@ _______________________________
 
 и здесь: https://docs.google.com/spreadsheets/d/1b1sgzowuyEv77i0fO-9lXjpuGSvWrxR6hmfU861Jhhs/edit#gid=807265881
 
-Также я нарисовал графики PNG, чтобы представить некоторые результаты более наглядно.
+Также я нарисовал графики PNG, чтобы представить некоторые результаты более наглядно:
+- task1_graph.jpg
+- task2_graph.jpg
+- task3_graph.jpg
 
 Код Python, в котором я рисовал графики в файле graphs.ipynb
